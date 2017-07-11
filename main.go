@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/go-chi/chi"
 	"net/http"
 	"time"
+
+	"github.com/go-chi/chi"
 )
 
 func main() {
