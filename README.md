@@ -8,11 +8,23 @@ Part of a comparision of [Go HTTP routers](https://github.com/avelino/awesome-go
 
 ### Invocation
 
+#### Server
+
 ```console
 go-hello-chi
 ```
 
-In a web browser, visit http://localhost:3000/
+#### Client
+
+In a web browser:
+
+1. Visit http://localhost:3000/ for "Hello world"
+
+`curl` commands
+
+```console
+curl -v -X GET http://localhost:3000/streaming
+```
 
 ## Development
 
