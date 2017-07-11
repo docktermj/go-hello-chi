@@ -4,7 +4,6 @@ Part of a comparision of [Go HTTP routers](https://github.com/avelino/awesome-go
 
 1. https://github.com/go-chi/chi
 
-
 ## Usage
 
 ### Invocation
@@ -52,5 +51,3 @@ make
 ```
 
 The results will be in the `${GOPATH}/bin` directory.
-
-

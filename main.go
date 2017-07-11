@@ -1,8 +1,8 @@
 package main
 
 import (
-	"net/http"
 	"github.com/go-chi/chi"
+	"net/http"
 )
 
 func main() {
